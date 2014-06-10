@@ -1,0 +1,17 @@
+Instructions:
+
+	1. Program written in Java- MapReduce Perspective.
+
+	2. Program Calculates/outputs following:
+		a. Calculates no. of times each host has requested server.
+		b. Calculates no. of times various browsers used to make request.
+		c. Calculates status codes count.
+		d. Generates statistics of success rate and total success, redirect and errors.
+
+	3. Code is compatible with Linux Local File System.
+
+	4. To run the program, FOUR ARGUMENTS are needed:
+		a. Input file path: http log file.
+		b. Output directory path for HostName count
+		c. Output directory path for Browsers count
+		d. Output directory path for Status code count
